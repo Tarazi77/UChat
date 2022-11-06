@@ -15,6 +15,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "165444460998-iuungriu7r1h350autgsrj0hc9b68mv1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.uchat",
+            "certificate_hash": "107984e40a46b510469102b9583ce1f308fc3bec"
+          }
+        },
+        {
           "client_id": "165444460998-8pt81ri6kg0lpe73hng6j2flgg0hnb88.apps.googleusercontent.com",
           "client_type": 3
         }
