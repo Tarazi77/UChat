@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "165444460998",
+    "firebase_url": "https://uchat-945fd-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "uchat-945fd",
+    "storage_bucket": "uchat-945fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:165444460998:android:09382bdf8a9365b5cd12c7",
+        "android_client_info": {
+          "package_name": "com.example.uchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "165444460998-8pt81ri6kg0lpe73hng6j2flgg0hnb88.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApw2NvcoD6SLjZJ2SrBAY3pelnUqiHqlQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "165444460998-8pt81ri6kg0lpe73hng6j2flgg0hnb88.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
